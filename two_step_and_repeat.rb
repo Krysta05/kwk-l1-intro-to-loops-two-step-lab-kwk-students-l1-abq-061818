@@ -30,6 +30,8 @@ end
 
 def how_many_steps?
  steps = 0
+ 
+ steps = steps+1 
 end
 
 def break_dance

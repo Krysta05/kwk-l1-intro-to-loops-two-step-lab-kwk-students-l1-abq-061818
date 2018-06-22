@@ -29,10 +29,12 @@ sleep(1)
 end
 
 def how_many_steps?
+  t
  steps = 0
   sleep (0.5)
- steps = steps+1
+ steps = +1
   sleep (0.5)
+
 end
 
 def break_dance
